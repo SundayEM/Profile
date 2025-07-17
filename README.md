@@ -1,5 +1,4 @@
 # ***Profile***
-***About Sunday Emmanuel***
 # 👋 Hi, I'm Sunday Emmanuel!
 
 🎓 **Final-year Applied Computer Science student**  
@@ -32,13 +31,13 @@
 
 ## 💡 About Me
 
-I’m passionate about leveraging data-driven solutions to real-world problems. My journey combines strong analytical skills with hands-on programming experience. I'm eager to explore opportunities in machine learning, AI, and data science.
+I’m passionate about leveraging data-driven solutions to real world problems. My journey combines strong analytical skills with hands on programming experience. I'm eager to explore opportunities in machine learning, AI, and data science.
 
 ---
 
 ## 📫 Connect with me
 
-- LinkedIn: (https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/) ](https://www.linkedin.com/in/sunday-emmanuel-bbbb1b240/)
+- LinkedIn: (https://www.linkedin.com/in/sunday-emmanuel-bbbb1b240/)
 - Email: semalekm@gmail.com
 
 ---
