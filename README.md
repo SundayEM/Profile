@@ -38,7 +38,8 @@ I’m passionate about leveraging data-driven solutions to real-world problems. 
 
 ## 📫 Connect with me
 
-- [LinkedIn][(https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/) ](https://www.linkedin.com/in/sunday-emmanuel-bbbb1b240/)
+- LinkedIn: (https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/) ](https://www.linkedin.com/in/sunday-emmanuel-bbbb1b240/)
+- Email: semalekm@gmail.com
 
 ---
 
